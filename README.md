@@ -234,7 +234,7 @@ A role model is a person whose behavior, example, or success is or can be emulat
 - [Ariya Hidayat](https://ariya.io)
 - [Simon Brown](https://simonbrown.je/)
 - [Robert Cecil Martin](https://blog.cleancoder.com/)
-- 
+- [Adrian Cockcroft](https://www.linkedin.com/in/adriancockcroft/)
 
 ## Entertainment
 
