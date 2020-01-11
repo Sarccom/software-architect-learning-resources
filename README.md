@@ -11,29 +11,55 @@ And you need to have a hands-on skill to proof your understanding and to share y
 
 Not to try to simplify things, but this can be your anchor about Software Architect role. A software architect role typically has 50% tech things and 50% non-tech things. Assume that number is subjective, so it depends on your situation in your organization.
 
-Actually being a Software Architect is the path to becoming VP Engineering or Chief Technology Officer or similar roles or even better you can be a Technopreneur, start your own startup company by yourself :sunglasses:
+Actually being a Software Architect is the path to becoming VP Engineering or Chief Technology Officer or similar roles or even better you can be a Technopreneur to start your own startup company by yourself :sunglasses:
 
 This list is initiated by Software Architect Community (SARCCOM).
 
 Official website https://sarccom.org
 
-`The list is still inprogress`
+`The list is still in progress. If you wanna help to complete this list do not hesitate to do a pull request`
+
+## Characteristics of a Software Architect
+
+Here's how the IEEE defines the term "architect":
+[An architect is] the person, team, or organization responsible for systems architecture.
+
+As the technical lead on the project, the characteristics and skills of the architect are typically broad, rather than deep (although architects should have deep skills in particular areas)
+
+[Characteristics of a software architect](https://www.ibm.com/developerworks/rational/library/mar06/eeles/):
+
+1. The architect is a technical leader
+2. The architect role may be fulfilled by a team
+3. The architect understands the software development process
+4. The architect has knowledge of the business domain
+5. The architect has technology knowledge
+6. The architect has design skills
+7. The architect has programming skills
+8. The architect is a good communicator
+9. The architect makes decisions
+10. The architect is aware of organizational politics
+11. The architect is a negotiator
 
 ## Attitude and Self Empower
 
+Why attitude matters? Attitude first!
 
+`Detail added later`
 
-### Role Model
+As a software architect, you need to grasp your self empower for your personal growth.
 
-### Training
+### Training / Online Course
 
-#### Learning How To Learn
-
-#### Flash Reading
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- [Flash Reading - Bacakilat](https://workshopbacakilat.com/)
 
 ### Recommended Reading
 
 #### Books / eBooks
+
+- [Soft Skills: The Software Developer's Life Manual by John Z. Sonmez](https://www.goodreads.com/book/show/23232941-soft-skills?from_search=true&qid=wa3rjOPISW&rank=1)
+- [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent by Joel Spolsky](https://www.goodreads.com/book/show/1400993.Smart_and_Gets_Things_Done?from_search=true&qid=0rVL0LqHGt&rank=4)
+- [Flash Reading - Bacakilat 3.0 by Agus Setiawan](https://aquarius.id/product/bacakilat-3-0)
 
 #### Articles
 
@@ -43,8 +69,6 @@ Official website https://sarccom.org
 
 ## Technical Skill and Knowledge
 
-### Role Model
-
 ### Training
 
 ### Recommended Reading
@@ -57,11 +81,7 @@ Official website https://sarccom.org
 
 #### Journals
 
-
-
 ## Business and Politics
-
-### Role Model
 
 ### Training
 
@@ -86,8 +106,6 @@ Official website https://sarccom.org
 #### Papers
 
 #### Journals
-
-### Role Model
 
 ### Training
 
@@ -205,6 +223,18 @@ Microsoft Azure Solutions Architects must have expertise in compute, network, st
   - [Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300)
   - [Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301)
 - Exam start from 165 USD
+
+## Role Model
+
+A role model is a person whose behavior, example, or success is or can be emulated by others, especially by younger people. The term role model is credited to sociologist Robert K. Merton, who coined the phrase during his career. Merton hypothesized that individuals compare themselves with reference groups of people who occupy the social role to which the individual aspires. An example being the way young fans will idolize and imitate professional athletes or entertainment artists. ([Wikipedia](https://en.wikipedia.org/wiki/Role_model))
+
+- [Martin Fowler](https://martinfowler.com/)
+- [Mark Richards](http://www.wmrichards.com/)
+- [Neal Ford](http://nealford.com/)
+- [Ariya Hidayat](https://ariya.io)
+- [Simon Brown](https://simonbrown.je/)
+- [Robert Cecil Martin](https://blog.cleancoder.com/)
+- 
 
 ## Entertainment
 
