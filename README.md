@@ -1,8 +1,17 @@
 # Software Architect Learning Resources
 
-There is no shortcut to become Software Architect.
+There is no shortcut to becoming a Software Architect.
 
-Actually being a Software Architect is the path to become VP Engineering or Chief Technology Officer or similar roles.
+There is a lot of things to learn, because learning is a never-ending process.
+When you stop learning, somehow in some situation you will feel obsolete.
+
+Being a Software Architect is not always about technology, you need to aware of business and politics. And has a great way to communicate with each stakeholder including your teammates. The key is communication, collaboration and negotiation.
+
+And you need to have a hands-on skill to proof your understanding and to share your knowledge.
+
+Not to try to simplify things, but this can be your anchor about Software Architect role. A software architect role typically has 50% tech things and 50% non-tech things. Assume that number is subjective, so it depends on your situation in your organization.
+
+Actually being a Software Architect is the path to becoming VP Engineering or Chief Technology Officer or similar roles or even better you can be a Technopreneur, start your own startup company by yourself :sunglasses:
 
 This list is initiated by Software Architect Community (SARCCOM).
 
@@ -85,6 +94,12 @@ Official website https://sarccom.org
 ### Communities
 
 ## Methodologies
+
+Why we need a methodology? Even when working alone.
+
+Methodology is the systematic, theoretical analysis of the methods applied to a field of study. It comprises the theoretical analysis of the body of methods and principles associated with a branch of knowledge. Typically, it encompasses concepts such as paradigm, theoretical model, phases and quantitative or qualitative techniques. ([Wikipedia](https://en.wikipedia.org/wiki/Methodology))
+
+As a Software Architect knowing several methodologies is a plus. To adapt and create a strategy to deliver excellence. But at least need to know deeply about one methodology.
 
 ### Scrum
 
@@ -177,8 +192,8 @@ Become Google Cloud Certified and show the world that you can design, develop, m
 
 - Official website https://cloud.google.com/certification/cloud-architect
 - Certification level:
-- [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
-- [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
+  - [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+  - [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 - Exam start from 125 USD
 
 ### Microsoft Azure Solutions Architect Expert
