@@ -123,9 +123,9 @@ As a Software Architect knowing several methodologies is a plus. To adapt and cr
 
 Scrum is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
 
-Scrum itself is a simple framework for effective team collaboration on complex products.  Scrum co-creators Ken Schwaber and Jeff Sutherland have written The Scrum Guide to explain Scrum clearly and succinctly.  This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together.
+Scrum itself is a simple framework for effective team collaboration on complex products.  Scrum co-creators Ken Schwaber and Jeff Sutherland have written The Scrum Guide to explain Scrum clearly and succinctly.  This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together. ([Scrum.org](https://www.scrum.org/resources/what-is-scrum))
 
-[Scrum Awesome list to follow](https://github.com/enneakr/awesome-agile-software-development/blob/master/Scrum.md)
+[Scrum awesome list to follow](https://github.com/enneakr/awesome-agile-software-development/blob/master/Scrum.md) :thumbsup:
 
 #### Training
 - [Scrum Indonesia](http://www.scrum.co.id/courses)
@@ -137,12 +137,17 @@ Scrum itself is a simple framework for effective team collaboration on complex p
 
 #### Communities
 
-
 ### Kanban
 
-### SAFe
+Kanban (Japanese error: {{nihongo}}: Japanese or romaji text required (help), signboard or billboard) is a lean method to manage and improve work across human systems. This approach aims to manage work by balancing demands with available capacity, and by improving the handling of system-level bottlenecks. ([Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)))
+
+[Kanban awesome list to follow](https://github.com/lorabv/awesome-agile/blob/master/Kanban.md) :thumbsup:
 
 ### Extreme Programming
+
+Extreme Programming (XP) is an agile software development framework that aims to produce higher quality software, and higher quality of life for the development team. XP is the most specific of the agile frameworks regarding appropriate engineering practices for software development. ([Agilealliance](https://www.agilealliance.org/glossary/xp))
+
+[XP awesome list to follow](https://github.com/lorabv/awesome-agile/blob/master/Extreme-Programming-XP.md) :thumbsup:
 
 ### Iterative and Incremental Development
 
