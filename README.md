@@ -2,13 +2,13 @@
 
 There is no shortcut to become Software Architect.
 
-Actually being a Software Architect is the path to become VP Engineering or Chief Technology Officer or similar roles. 
+Actually being a Software Architect is the path to become VP Engineering or Chief Technology Officer or similar roles.
 
 This list is initiated by Software Architect Community (SARCCOM).
 
-https://sarccom.org
+Official website https://sarccom.org
 
-
+`The list is still inprogress`
 
 ## Attitude and Self Empower
 
@@ -31,8 +31,6 @@ https://sarccom.org
 #### Papers
 
 #### Journals
-
-
 
 ## Technical Skill and Knowledge
 
@@ -68,10 +66,6 @@ https://sarccom.org
 
 #### Journals
 
-
-
-
-
 ## Human Psychology
 
 ### Recommended Reading
@@ -89,8 +83,6 @@ https://sarccom.org
 ### Training
 
 ### Communities
-
-
 
 ## Methodologies
 
@@ -118,8 +110,6 @@ https://sarccom.org
 
 ### Iterative and Incremental Development
 
-
-
 ## Certifications
 
 Am I need a certification? the answer is: it depends.
@@ -146,6 +136,7 @@ Iasa certifications are the first global industry architect certifications that 
 ### The Open Group Certified Architect (Open CA)
 
 The TOGAF® Standard, a standard of The Open Group, is the open Enterprise Architecture standard used by the world’s leading organizations to improve business efficiency. The Open Group TOGAF Certification Program has enabled more than 70,000 Enterprise Architects and trainers around the globe to demonstrate their proven knowledge of the framework.
+
 - Official website https://www.opengroup.org/certifications/togaf
 - Certification levels:
   - [Foundation](https://www.youracclaim.com/org/the-open-group/badge/the-open-group-certified-togaf-9-foundation)
@@ -170,11 +161,35 @@ As a software architect, you are responsible for the components and interaction 
 
 ### AWS Certified Solution Architect
 
+The AWS Certified Solutions Architect - Associate examination is intended for individuals who perform a solutions architect role and have one or more years of hands-on experience designing available, cost-efficient, fault-tolerant, and scalable distributed systems on AWS.
+
+- Official website https://aws.amazon.com/certification/
+- Learning path https://aws.amazon.com/training/path-architecting/
+- Certification level:
+  - [Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+  - [Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+  - [Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- Exam start from 100 USD
+
 ### Google Professional Cloud Architect
+
+Become Google Cloud Certified and show the world that you can design, develop, manage, and administer application infrastructure and data solutions on Google Cloud technology. The Google Cloud Certified designation means you've demonstrated the necessary skills to leverage Google Cloud technology in a way that can transform businesses and meaningfully impact the people and customers they serve.
+
+- Official website https://cloud.google.com/certification/cloud-architect
+- Certification level:
+- [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+- [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
+- Exam start from 125 USD
 
 ### Microsoft Azure Solutions Architect Expert
 
+Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.
 
+- Official website https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect?wt.mc_id=learningredirect_certs-web-wwl
+- Certification requirement:
+  - [Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300)
+  - [Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301)
+- Exam start from 165 USD
 
 ## Entertainment
 
@@ -227,3 +242,6 @@ Programmers will find this movie extremely engaging. In the end, Alan Turing, th
 
 - https://www.imdb.com/title/tt2084970/
 
+## Contributions
+
+If you want to add more into this list or want to fix wrong information, do not hesitate to do pull request :-)
