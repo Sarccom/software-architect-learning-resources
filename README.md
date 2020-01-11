@@ -121,19 +121,22 @@ As a Software Architect knowing several methodologies is a plus. To adapt and cr
 
 ### Scrum
 
-#### Recommended Reading
+Scrum is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
 
-##### Books / eBooks
+Scrum itself is a simple framework for effective team collaboration on complex products.  Scrum co-creators Ken Schwaber and Jeff Sutherland have written The Scrum Guide to explain Scrum clearly and succinctly.  This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together.
 
-##### Articles
-
-##### Papers
-
-##### Journals
+[Scrum Awesome list to follow](https://github.com/enneakr/awesome-agile-software-development/blob/master/Scrum.md)
 
 #### Training
+- [Scrum Indonesia](http://www.scrum.co.id/courses)
+- [Agile Academy](http://agileacademy.id/)
+- [Ekipa - Scrum Master Certification](https://www.ekipa.co.id/indonesia-scrum-master-certification/)
+- [Agilemania - Professional Scrum Master](https://www.agilemania.com/professional-scrum-master-psm-training-in-jakarta-indonesia/)
+- [Hackativ8 - Agile Scrum](https://hacktiv8.com/scrum/jakarta/)
+- [Brainmatics - Scrum Project Management](http://brainmatics.com/scrum-project-management/)
 
 #### Communities
+
 
 ### Kanban
 
