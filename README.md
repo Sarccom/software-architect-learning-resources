@@ -1,6 +1,6 @@
 # Software Architect Learning Resources
 
-There is no shortcut to become Software Architect. 
+There is no shortcut to become Software Architect.
 
 Actually being a Software Architect is the path to become VP Engineering or Chief Technology Officer or similar roles. 
 
@@ -18,19 +18,19 @@ https://sarccom.org
 
 ### Training
 
-#### 	Learning How To Learn
+#### Learning How To Learn
 
-	#### 	Flash Reading
+#### Flash Reading
 
 ### Recommended Reading
 
-#### 	Books / eBooks
+#### Books / eBooks
 
-#### 	Articles
+#### Articles
 
-#### 	Papers
+#### Papers
 
-#### 	Journals
+#### Journals
 
 
 
@@ -42,13 +42,13 @@ https://sarccom.org
 
 ### Recommended Reading
 
-#### 	Books / eBooks
+#### Books / eBooks
 
-#### 	Articles
+#### Articles
 
-#### 	Papers
+#### Papers
 
-#### 	Journals
+#### Journals
 
 
 
@@ -60,13 +60,13 @@ https://sarccom.org
 
 ### Recommended Reading
 
-#### 	Books / eBooks
+#### Books / eBooks
 
-#### 	Articles
+#### Articles
 
-#### 	Papers
+#### Papers
 
-#### 	Journals
+#### Journals
 
 
 
@@ -76,13 +76,13 @@ https://sarccom.org
 
 ### Recommended Reading
 
-#### 	Books / eBooks
+#### Books / eBooks
 
-#### 	Articles
+#### Articles
 
-#### 	Papers
+#### Papers
 
-#### 	Journals
+#### Journals
 
 ### Role Model
 
@@ -96,19 +96,19 @@ https://sarccom.org
 
 ### Scrum
 
-#### 	Recommended Reading
+#### Recommended Reading
 
-##### 		Books / eBooks
+##### Books / eBooks
 
-##### 		Articles
+##### Articles
 
-##### 		Papers
+##### Papers
 
-##### 		Journals
+##### Journals
 
-#### 	Training
+#### Training
 
-#### 	Communities
+#### Communities
 
 ### Kanban
 
@@ -128,13 +128,45 @@ But if you want to be known by industries, then being certified is one of your v
 
 ### IASA - Certified IT Architect
 
+Iasa certifications are the first global industry architect certifications that are **completely vendor independent** and run only by practicing architects. Iasa provides four levels of certification which describe the major milestones in an architect’s career.
+
+- Official website https://iasaglobal.org
+- ITABoK
+  - The Information Technology Architecture Body of Knowledge (ITABoK) is a free public archive of IT architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest IT architecture professional organization.
+  - https://itabok.iasaglobal.org/
+- Training and certifications https://iasaglobal.org/Public/Learn/Training_and_Certifications.aspx
+- Exam start from 300 USD
+- The four-tier certification path:
+  - [Certified IT Architect – Foundation](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified-IT-Architect---Foundation.aspx)
+  - [Certified IT Architect – Associate](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified%20IT%20Architect%20%E2%80%93%20Associate.aspx)
+  - [Certified IT Architect – Professional](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified%20IT%20Architect%20%E2%80%93%20Professional.aspx)
+  - [Certified IT Architect – Specialist](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified%20IT%20Architect%20%E2%80%93%20Specialist.aspx)
+- How many peoples in Indonesia has IASA certification? [check here...](https://www.linkedin.com/search/results/people/?authorCompany=%5B%5D&authorIndustry=%5B%5D&contactInterest=%5B%5D&facetCity=%5B%5D&facetCompany=%5B%5D&facetConnectionOf=%5B%5D&facetCurrentCompany=%5B%5D&facetCurrentFunction=%5B%5D&facetGeoRegion=%5B%22id%3A0%22%5D&facetGeoUrn=%5B%5D&facetGroup=%5B%5D&facetGuides=%5B%5D&facetIndustry=%5B%5D&facetNetwork=%5B%5D&facetNonprofitInterest=%5B%5D&facetPastCompany=%5B%5D&facetProfessionalEvent=%5B%5D&facetProfileLanguage=%5B%5D&facetRegion=%5B%5D&facetSchool=%5B%5D&facetSeniority=%5B%5D&facetServiceCategory=%5B%5D&facetState=%5B%5D&groups=%5B%5D&keywords=CITA-F&origin=GLOBAL_SEARCH_HEADER&page=1&refresh=false&skillExplicit=%5B%5D&topic=%5B%5D)
+
 ### The Open Group Certified Architect (Open CA)
+
+The TOGAF® Standard, a standard of The Open Group, is the open Enterprise Architecture standard used by the world’s leading organizations to improve business efficiency. The Open Group TOGAF Certification Program has enabled more than 70,000 Enterprise Architects and trainers around the globe to demonstrate their proven knowledge of the framework.
+- Official website https://www.opengroup.org/certifications/togaf
+- Certification levels:
+  - [Foundation](https://www.youracclaim.com/org/the-open-group/badge/the-open-group-certified-togaf-9-foundation)
+  - [Certified](https://www.youracclaim.com/org/the-open-group/badge/the-open-group-certified-togaf-9-certified)
+- The cost of the certification can be as low as 320 USD. That’s just for the foundation exam alone; you can also sign up to take both exams for 495 USD. Even if you add in the costs of training courses, getting trained in TOGAF is a clear investment for your future.
+- How many peoples in Indonesia has TOGAF certification? [check here...](https://www.linkedin.com/search/results/people/?authorCompany=%5B%5D&authorIndustry=%5B%5D&contactInterest=%5B%5D&facetCity=%5B%5D&facetCompany=%5B%5D&facetConnectionOf=%5B%5D&facetCurrentCompany=%5B%5D&facetCurrentFunction=%5B%5D&facetGeoRegion=%5B%22id%3A0%22%5D&facetGeoUrn=%5B%5D&facetGroup=%5B%5D&facetGuides=%5B%5D&facetIndustry=%5B%5D&facetNetwork=%5B%5D&facetNonprofitInterest=%5B%5D&facetPastCompany=%5B%5D&facetProfessionalEvent=%5B%5D&facetProfileLanguage=%5B%5D&facetRegion=%5B%5D&facetSchool=%5B%5D&facetSeniority=%5B%5D&facetServiceCategory=%5B%5D&facetState=%5B%5D&groups=%5B%5D&keywords=TOGAF&origin=GLOBAL_SEARCH_HEADER&page=1&refresh=false&skillExplicit=%5B%5D&topic=%5B%5D)
 
 ### Certified Software Architect by Carnegie Mellon University
 
-### iSAQB® Software Architecture
+Software architecture is the primary carrier of system qualities, such as performance, modifiability, and security. Architecture helps ensure that a design approach will yield an acceptable system and holds the key to maintenance and sustainment efforts. In short, architecture is the glue that holds every phase of a project together. To realize these benefits, you need to build the capability to architect effectively. The SEI offers the Software Architecture Professional Certificate to equip software professionals with state-of-the-art practices for designing, analyzing, documenting, and implementing software architectures.
 
-### SEI Software Architecture Professional Certificate
+- Official website https://www.sei.cmu.edu/education-outreach/credentials/credential.cfm?customel_datapageid_14047=15203
+
+### iSAQB® Software Architecture
+As a software architect, you are responsible for the components and interaction within a system. The internationally recognised iSAQB® Certified Professional for Software Architecture - Foundation Level certification attests to your comprehensive knowledge in the field of software architecture.
+
+- Official website https://isqi.org/us/en/isaqb-software-architecture-foundation-level
+- Certification level:
+  - Foundation
+  - Adanvanced
+- Exam start from 250 USD
 
 ### AWS Certified Solution Architect
 
